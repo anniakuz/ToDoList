@@ -1,0 +1,13 @@
+.dropdown-list-container{
+    float: left;
+    overflow: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.dropdown {
+    cursor: pointer;
+}
